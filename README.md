@@ -10,7 +10,7 @@ vite.config.js > base: '/repo/',
 
 npm install gh-pages --save-dev
 
-homepage: "https://github.com/KTkodehode/test" (package.json > top)
+"homepage": "https://github.com/KTkodehode/pages-test", (package.json > top)
 
 package.json(scripts) > predeploy: "npm run build", deploy: "gh-pages -d dist"
 
