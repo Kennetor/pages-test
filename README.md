@@ -1,5 +1,3 @@
-# pages-test
-
 # How to upload vite-react to Github-pages
 
 npm create vite@latest
@@ -19,3 +17,6 @@ package.json(scripts) > predeploy: "npm run build", deploy: "gh-pages -d dist"
 commit
 
 npm run deploy
+
+
+https://ktkodehode.github.io/pages-test/
